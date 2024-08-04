@@ -1,0 +1,1 @@
+pip install -U --only-binary :all: matplotlib
