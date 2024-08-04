@@ -1,2 +1,2 @@
-# Nural-Style-Transfer
+# Neural-Style-Transfer
 NST using tensorflow.
